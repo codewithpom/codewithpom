@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Make DEV post](https://dev.to/codewithpom/make-dev-post-3em6)
 - [Binary Conversion](https://dev.to/codewithpom/binary-conversion-13io)
 - [Google Trends Analysis](https://dev.to/codewithpom/google-trends-analysis-576f)
 - [Google Trends Analysis](https://medium.com/@codewithpom/google-trends-analysis-47583d9980b1?source=rss-543342791b6c------2)
-- [Gitpod VScode is browser](https://dev.to/codewithpom/gitpod-vscode-is-browser-8d4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
