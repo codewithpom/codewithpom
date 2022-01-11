@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cheat sheets](https://dev.to/codewithpom/cheat-sheets-2imc)
 - [DEV Book store](https://dev.to/codewithpom/dev-book-store-c6l)
 - [Make DEV post](https://dev.to/codewithpom/make-dev-post-3em6)
 - [Binary Conversion](https://dev.to/codewithpom/binary-conversion-13io)
-- [Google Trends Analysis](https://dev.to/codewithpom/google-trends-analysis-576f)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
