@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [C cheat sheet 1](https://dev.to/codewithpom/c-cheat-sheet-1-4n6n)
 - [Cheat sheets](https://dev.to/codewithpom/cheat-sheets-2imc)
 - [DEV Book store](https://dev.to/codewithpom/dev-book-store-c6l)
 - [Make DEV post](https://dev.to/codewithpom/make-dev-post-3em6)
-- [Binary Conversion](https://dev.to/codewithpom/binary-conversion-13io)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
