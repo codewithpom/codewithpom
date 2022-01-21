@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [C cheat sheet 1](https://dev.to/codewithpom/c-cheat-sheet-1-4n6n)
-- [Cheat sheets](https://dev.to/codewithpom/cheat-sheets-2imc)
-- [DEV Book store](https://dev.to/codewithpom/dev-book-store-c6l)
-- [Make DEV post](https://dev.to/codewithpom/make-dev-post-3em6)
+- [Google Trends Analysis](https://medium.com/@codewithpom/google-trends-analysis-47583d9980b1?source=rss-543342791b6c------2)
+- [Express](https://medium.com/@codewithpom/express-bbc52c63c20a?source=rss-543342791b6c------2)
+- [Create your own Discord bot.](https://medium.com/@codewithpom/create-your-own-discord-bot-53e16deff428?source=rss-543342791b6c------2)
+- [Send Whatsapp Messages by Python](https://medium.com/@codewithpom/send-whats-app-messages-by-python-602eb3e645ab?source=rss-543342791b6c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
