@@ -57,16 +57,6 @@ padmashree@earth:~$ ▌
 | **NDPify** | iOS app, live on the App Store. | Swift |
 | **[Prabhananda Cup](https://prabhananda-cup-4th-edition.vercel.app)** | Live football-tournament site with realtime scores on Firebase Realtime DB. | TypeScript · Firebase |
 
-<div align="center">
-
-<a href="https://github.com/codewithpom/smriti"><img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codewithpom&repo=smriti&theme=tokyonight&hide_border=true" alt="smriti" /></a>
-<a href="https://github.com/codewithpom/cses-better"><img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codewithpom&repo=cses-better&theme=tokyonight&hide_border=true" alt="cses-better" /></a>
-<br/>
-<a href="https://github.com/codewithpom/nifty-straddle-vix-router"><img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codewithpom&repo=nifty-straddle-vix-router&theme=tokyonight&hide_border=true" alt="nifty-straddle-vix-router" /></a>
-<a href="https://github.com/codewithpom/dev-meme"><img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codewithpom&repo=dev-meme&theme=tokyonight&hide_border=true" alt="dev-meme" /></a>
-
-</div>
-
 ---
 
 ## 🧪 Quant & Bots — research with guardrails
@@ -127,8 +117,13 @@ Also on the shelf: [dev-meme](https://github.com/codewithpom/dev-meme) (27★ me
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codewithpom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codewithpom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="190" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="190" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commits" />
+<img height="190" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+
+<br/>
+
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="60%" />
 
 <br/>
 
